@@ -42,8 +42,8 @@ header h1{
 
 .login a{
   color: #000;
-  background-color: #fff;
-  border: 3px solid rgb(0, 0, 0);
+  background-color: #eceade;
+  border: 2px solid rgb(0, 0, 0);
   border-radius: 8px;
   padding: 8px;
   text-decoration: none;
@@ -68,7 +68,7 @@ header h1{
 .banner .welcome{
   position: absolute;
   background-color: #feb614;
-  color: white;
+  color: #eceade;
   padding: 30px;
   left: 0;
   top: 30%;
@@ -223,6 +223,6 @@ nav li a:hover{
 
 .login a:hover {
     background-color: #f7e227;
-    border: 3px solid #f7e227;
+    border: 2px solid #f7e227;
     transition: 0.5s;
 }
