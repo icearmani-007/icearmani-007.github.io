@@ -102,7 +102,7 @@ nav ul{
 
 }
 
-nav li a.join{
+nav li a#join{
   text-decoration: none;
   color: #f02308;
 }
@@ -113,8 +113,8 @@ nav li a.join{
 
 
 main {
-  max-width: 100px;
-  width: 1200px;
+  max-width: 100%;
+  width: 1200%;
   margin:80px auto;
   padding: 0 40px;
   box-sizing: border-box;
@@ -125,7 +125,7 @@ article h2 {
   font-size: 48px;
 }
 
-article p{
+article #paragraph{
   line-height: 1.5em;
   color: #1f1e1e;
 }
